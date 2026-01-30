@@ -82,6 +82,7 @@ print(f"\nPredicted marks for {hours} hours of study = {predicted_marks[0]:.2f}"
 
 ## Output:
 <img width="920" height="697" alt="image" src="https://github.com/user-attachments/assets/80b8ada6-6c14-4566-b3a8-4fc976cff3f4" />
+
 Predicted marks for 6 hours of study = 66.94
 
 
